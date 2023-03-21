@@ -1,0 +1,15 @@
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\bin\Debug\net6.0\AbertoeFechado.exe
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\bin\Debug\net6.0\AbertoeFechado.deps.json
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\bin\Debug\net6.0\AbertoeFechado.runtimeconfig.json
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\bin\Debug\net6.0\AbertoeFechado.dll
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\bin\Debug\net6.0\AbertoeFechado.pdb
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.csproj.AssemblyReference.cache
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.AssemblyInfoInputs.cache
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.AssemblyInfo.cs
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.csproj.CoreCompileInputs.cache
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.dll
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\refint\AbertoeFechado.dll
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.pdb
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\AbertoeFechado.genruntimeconfig.cache
+C:\Users\ccasm\OneDrive\Área de Trabalho\programs em c#\AbertoeFechado\AbertoeFechado\obj\Debug\net6.0\ref\AbertoeFechado.dll
